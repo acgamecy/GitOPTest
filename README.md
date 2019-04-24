@@ -1,2 +1,2 @@
 # GitOPTest
-练习git的操作用
+git的操作命令练习使用库
